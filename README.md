@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neifer Davies Hinestroza Mosquera</h1>
-<h3 align="center">I am a student of systems engineering, lover of the world of programming, computer science and all the digital environment in general.</h3>
+<h3 align="center">I am a systems engineering, lover of the world of programming, computer science and all the digital environment in general.</h3>
 <h3 align="center">I am a Colombian programmer passionate about flutter, although at the moment I am in learning mode.</h3>
 <h3 align="center">I am an open source lover, since I believe that knowledge should be shared without limits.</h3>
 
